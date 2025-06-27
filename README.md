@@ -341,16 +341,6 @@ class Product {
 }
 ```
 
----
-
-## Cara Menjalankan Proyek
-1. Pastikan Flutter sudah terinstal di komputer Anda.
-2. Clone repository ini.
-3. Jalankan perintah `flutter pub get` untuk menginstal dependencies.
-4. Jalankan aplikasi dengan perintah `flutter run`. 
-
----
-
 ## API yang Digunakan
 - **Login:** `https://dummyjson.com/auth/login`
 - **Produk:** `https://dummyjson.com/products`
