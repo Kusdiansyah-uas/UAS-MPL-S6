@@ -348,5 +348,5 @@ class Product {
 ---
 
 ## Data Diri
-Nama: Kusdiansyah
-NPM: 20122018
+- Nama: Kusdiansyah
+- NPM: 20122018
