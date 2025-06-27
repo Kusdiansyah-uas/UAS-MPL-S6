@@ -357,5 +357,6 @@ class Product {
 
 ---
 
-## Pengembang
-Dikembangkan oleh Kusdiansyah.
+## Data Diri
+Nama: Kusdiansyah
+NPM: 20122018
